@@ -1,0 +1,31 @@
+PARKID,NAME,CITY,HOME_TEAM,TEAMID
+PHO01,Chase Field,Phoenix,Arizona Diamondbacks,ARI
+ATL03,Suntrust Park,Atlanta,Atlanta Braves,ATL
+BAL12,Oriole Park at Camden Yards,Baltimore,Baltimore Orioles,BAL
+BOS07,Fenway Park,Boston,Boston Red Sox,BOS
+CHI11,Wrigley Field,Chicago,Chicago Cubs,CHC
+CHI12,Guaranteed Rate Field,Chicago,Chicago White Sox,CWS
+CIN09,Great American Ballpark,Cincinnati,Cincinnati Reds,CIN
+CLE08,Progressive Field,Cleveland,Cleveland Indians,CLE
+DEN02,Coors Field,Denver,Colorado Rockies,COL
+DET05,Comerica Park,Detroit,Detroit Tigers,DET
+HOU03,Minute Maid Park,Houston,Houston Astros,HOU
+KAN06,Kauffman Stadium,Kansas City,Kanses City Royals,KCA
+ANA01,Angel Stadium of Anaheim,Anaheim,LA Angels,LAA
+LOS03,Dodger Stadium,Los Angeles,Los Angeles Dodgers,LAD
+MIA02,Marlins Park,Miami,Miami Marlins,MIA
+MIL06,Miller Park,Milwaukee,Milwaukee Brewers,MIL
+MIN04,Target Field,Minneapolis,Minnesota Twins,MIN
+NYC20,Citi Field,New York,New York Mets,NYM
+NYC21,Yankee Stadium II,New York,New York Yankees,NYY
+OAK01,Oakland-Alameda County Coliseum,Oakland,Oakland Athletics,OAK
+PHI13,Citizens Bank Park,Philadelphia,Philadelphia Phillies,PHI
+PIT08,PNC Park,Pittsburgh,Pittsburgh Pirates,PIT
+SAN02,PETCO Park,San Diego,San Diego Padres,SDN
+SFO03,AT&T Park,San Francisco,San Francisco Giants,SFN
+SEA03,Safeco Field,Seattle,Seattle Mariners,SEA
+STL10,Busch Stadium III,St. Louis,St Louis Cardinals,STL
+STP01,Tropicana Field,St. Petersburg,Tampa Bay Rays,TBA
+ARL02,Rangers Ballpark in Arlington,Arlington,Texas Rangers,TEX
+TOR02,Rogers Centre,Toronto,Toronto Blue Jays,TOR
+WAS11,Nationals Park,Washington,Washington Nationals,WSH
